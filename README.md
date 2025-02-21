@@ -1,7 +1,6 @@
 # NostalGift - Retro Valentine's Day ✨🎁
 
 [![Status](https://img.shields.io/badge/status-in%20development-yellow)](https://github.com/Viktor59000/nostalgift-retro-valentines)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A retro-designed HTML email to celebrate Valentine's Day with NostalGift!
 
